@@ -10,3 +10,9 @@ console.log (3 == "3");
 console.log (3 === "3");
 console.log (7 == "7");
 console.log (7 === "7");
+
+//Asignación y asociatividad
+var a = 1;
+var b = 2;
+var c = a = b;
+console.log (c);

@@ -27,3 +27,4 @@ LatinoAmerica.prototype.agregarPais = function (pais) {
 var continente = new LatinoAmerica();
 continente.agregarPais('Mexico');
 console.log(continente)
+  
